@@ -5,3 +5,5 @@
 3. Open Firebase Console, create a project, and get your web app credentials.
 4. Paste your credentials into `config.js`.
 5. Open `index.html` in your browser.
+
+REMINDER TO GIVE CREDITS TO NEXCHAT OR NEXTEAM
